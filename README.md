@@ -7,7 +7,7 @@ To clone this project, navigate to the directory you wish to place the code and 
 git clone https://github.com/dwmiller18/AvailityHomework.git
 ```
 
-The solution to questions 1 - 3 of the homework assignment, can be found in AvailityHomeworkQuestions.txt.
+The solution to questions 1 - 3 of the homework assignment, can be found in AvailityHomeworkQuestions.docx.
 
 The checker for question 4 is in LISPCodeCheckerEx4 and is tested with JUnit tests.  To run the solution to question 4, Checker for LISP code, open the project with an IDE (Preferably IntelliJ) and run testing from there.
 
