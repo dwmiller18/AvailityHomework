@@ -1,6 +1,3 @@
-/**
- *
- */
 public class LISPCodeChecker {
 
     /**
@@ -11,7 +8,8 @@ public class LISPCodeChecker {
     }
 
     /**
-     * isValid(String)
+     * isValid(String) - Checks to see if a string has properly
+     * closed and nested parenthesis.
      * @param lisp - A string to be tested
      * @return - boolean value of valid or not
      */
