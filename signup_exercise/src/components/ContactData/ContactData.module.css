@@ -1,0 +1,31 @@
+.ContactData {
+    background: white;
+    border: 1px double #DDD;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #333;
+    color: #666;
+    outline: none;
+    height:25px;
+    width: 275px;
+    margin-bottom: 20px;
+}
+
+.Button {
+    color: grey !important;
+    text-transform: uppercase;
+    background: #fece01;
+    padding: 10px;
+    border: 1px double #DDD !important;
+    border-radius: 6px;
+    display: inline-block;
+    transition: all 0.3s ease 0s;
+    margin-right: 20px;
+}
+
+.Button:hover {
+    color: black !important;
+    background-color: #fe6b1d;
+    border-radius: 50px;
+    border-color: #494949 !important;
+    transition: all 0.3s ease 0s;
+}
